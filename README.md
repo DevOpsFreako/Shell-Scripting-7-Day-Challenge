@@ -1,10 +1,8 @@
 # Shell-Scripting-7-Day-Challenge
 ----------------------------------
-Yes Guys Yes, I have taken a 7-day challenge where I will be showcasing my existing skills while also learning new ones. 
-Over the course of the challenge, we will be completing 30 tasks that will aid us in automating our daily tasks through scripting.
+Yes Guys I have taken on a 7-day challenge where I will not only be showcasing my existing skills, but also acquiring new ones. Through this challenge, we will conquer 30 tasks that will not only aid us in automating our daily tasks, but will also equip us with the tools and knowledge necessary to optimize our productivity through scripting. Let's do this!
 ---------------------------------
 Like I Always Say Anyone Can Write Code That A Computer Can Understand, But It Takes A Good Programmer To Write Code That Is Easily Understandable By Other Humans.
-
 
 -------------------------------------------
 Shell Scripting 7 Day Challenge Part-1
@@ -28,7 +26,7 @@ Shell Scripting 7 Day Challenge Day-2
 https://medium.com/@DevOpsfreak/shell-scripting-7-day-challenge-day-2-806114f576b1
 --------------------------------------------
 Shell Scripting 7 Day Challenge Day-3
-https://miro.medium.com/v2/resize:fit:720/format:webp/1*XCii1sJvVjhEj09FDmAetA.png
+![image](https://user-images.githubusercontent.com/128013315/232393137-1eb4a620-1135-4789-a2a3-7a3d8407198d.png)
 
 https://medium.com/@DevOpsfreak/shell-scripting-7-day-challenge-day-3-6a6e11602c71
 ---------------------------------------------
@@ -38,10 +36,14 @@ Shell Scripting 7 Day Challenge Day-4
 https://medium.com/@DevOpsfreak/shell-scripting-7-day-challenge-day-4-744b140e3d52
 --------------------------------------------
 Shell Scripting 7 Day Challenge Day-5
-https://miro.medium.com/v2/resize:fit:720/format:webp/1*Px_VfU77kpX8Cu-KkSlzBw.png
+![image](https://user-images.githubusercontent.com/128013315/232393280-80c343fa-3ea5-4e4e-a114-474477df9934.png)
 
 https://medium.com/@DevOpsfreak/shell-scripting-7-day-challenge-day-5-2efc9863546b
-
-
-******Thank You***********
+--------------------------------------
+Shell Scripting 7 Day Challenge Day-6
+Wait For That  ?
+--------------------------------------
+-------------------------------------
+Thank You
+------------------------------
 I hope that you found These Challenge to be a valuable experience that has enhanced your DevOps and Linux administration skills. Remember that knowledge and skills are meant to be shared, so don’t hesitate to spread the word and encourage others to take on this challenge as well. By doing so, we can all contribute to our personal and collective growth, and continue to learn and explore new ideas together. Thank you for joining me on this journey, and I look forward to sharing more insights and challenges with you in the future.
