@@ -41,8 +41,8 @@ Shell Scripting 7 Day Challenge Day-5
 https://medium.com/@DevOpsfreak/shell-scripting-7-day-challenge-day-5-2efc9863546b
 --------------------------------------
 Shell Scripting 7 Day Challenge Day-6
-Wait For That  ?
 --------------------------------------
+Wait For That  ?
 -------------------------------------
 Thank You
 ------------------------------
